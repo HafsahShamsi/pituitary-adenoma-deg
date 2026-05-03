@@ -65,6 +65,8 @@ Cortisol dysregulation from a malfunctioning pituitary has direct consequences f
 
 ## Outputs
 
+'''
+
 outputs/
 ├── pituitary_deg_results.csv          # Full DEG table
 ├── volcano_pituitary.png              # Volcano plot
@@ -72,6 +74,8 @@ outputs/
 ├── feedback_genes.png                 # HPA axis gene fold changes
 ├── enrichment_KEGG_2021_Human.png     # KEGG dot plot
 └── enrichment_GO_Biological_Process_2021.png
+
+'''
 
 ---
 
